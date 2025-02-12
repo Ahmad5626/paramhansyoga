@@ -2599,7 +2599,7 @@ html{
 /* Map */
 
 .map-con {
-    padding: 140px 0 300px;
+    padding: 40px 0 40px;
 }
 .map-con iframe {
     width: 100%;
@@ -3862,4 +3862,7 @@ to {
 .sign-up-form .login-card .select-option:focus {
     outline: none;
     box-shadow: none;
+}
+.subbanner-image img{
+    width: 100%;
 }
